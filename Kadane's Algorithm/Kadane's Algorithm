@@ -1,0 +1,2 @@
+Kadane's algorithm scans the given array from left to right. In the jth step, it computes the subarray with the largest sum ending at j; this sum is maintained in variable current_sum. 
+Moreover, it computes the subarray with the largest sum anywhere in A[1…j], maintained in variable best_sum, and easily obtained as the maximum of all values of current_sum seen so far.
