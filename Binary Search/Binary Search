@@ -8,5 +8,6 @@ Time Complexity : O(n)
 Leet code:
 
 Find Minimum in roated sorted array : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?source=post_page-----4692c04891e0--------------------------------
+(Want to run on nlog n )
 
 Search in roated sorted arrays : https://leetcode.com/problems/search-in-rotated-sorted-array/description/?source=post_page-----4692c04891e0--------------------------------
