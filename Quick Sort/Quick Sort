@@ -1,0 +1,7 @@
+Search for a pivot in a array and then all the less elements go to the left side of the pivot and all the large elements go to the right side of the pivot 
+
+Time Complexity : 
+Best case - O(n)
+Worst case - O(n^2)
+Average case - O(n log n)
+
