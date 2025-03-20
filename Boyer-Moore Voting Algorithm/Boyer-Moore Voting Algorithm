@@ -1,0 +1,1 @@
+To solve the Majority Element problem, we can use the Boyer-Moore Voting Algorithm, which finds the majority element in linear time and constant space.
